@@ -166,9 +166,25 @@ All changes flow through **pull requests** with mandatory code review before mer
 
 <div align="center">
 
-If you're working on similar challenges, exploring open source, or just want to talk tech — feel free to reach out. I'm always open to **collaborations**, **feedback**, and **learning together**.
+Whether you're building something cool, exploring open source, or looking for a collaborator — I'd love to connect. Let's learn, build, and grow together.
 
-⭐ *If you found this helpful, consider giving the repo a star!*
+<br/>
+
+<a href="https://www.linkedin.com/in/vivekk52/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ehv1v3k@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ehvivek">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+⭐ *If you found this helpful, consider giving the repo a ☆!*
 
 ---
 
