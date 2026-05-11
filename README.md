@@ -2,10 +2,10 @@
 
 # 🏗️ Intro to Repository Management
 
-<img src="https://img.shields.io/badge/GitHub-Skills-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skills" />
-<img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/License-MIT-F5C518?style=for-the-badge" alt="License" />
-<img src="https://img.shields.io/badge/PRs-Welcome-FF6D00?style=for-the-badge" alt="PRs Welcome" />
+<a href="https://skills.github.com/"><img src="https://img.shields.io/badge/GitHub-Skills-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skills" /></a>
+<a href="https://github.com/ehvivek/-Intro-to-Repository-Management"><img src="https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" /></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-F5C518?style=for-the-badge" alt="License" /></a>
+<a href="https://github.com/ehvivek/-Intro-to-Repository-Management/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-FF6D00?style=for-the-badge" alt="PRs Welcome" /></a>
 
 **Mastering the foundations of professional repository management, branch protection, and collaborative workflows on GitHub.**
 
