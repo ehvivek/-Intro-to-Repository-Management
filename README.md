@@ -13,9 +13,9 @@
 
 </div>
 
-<br/>
-
-<img align="right" src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png" width="320" alt="Vivek — Developer" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 👋 Hey, I'm Vivek
 
@@ -29,7 +29,14 @@ A passionate developer focused on crafting clean, impactful digital experiences.
 - 🌐 **Open Source** — Contributing to and learning from the global developer community
 - 🎯 **Goal** — Building portfolio-worthy projects and strengthening my GitHub presence for internships, collaborations, and tech opportunities
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center" valign="center">
+
+<img src="https://res.cloudinary.com/dimr2v5xg/image/upload/v1778525358/okkk_igwlaf.png" width="300" alt="Vivek — Developer" />
+
+</td>
+</tr>
+</table>
 
 ---
 
